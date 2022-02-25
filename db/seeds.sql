@@ -11,7 +11,7 @@ INSERT INTO role (title,salary,department_id)
     ('parts associate', 45000.00, 3),
     ('parts manager', 45000.00, 3),
     ('finance associate', 50000.00, 4),
-    ('finance manager', 70,000.00, 4);
+    ('finance manager', 70000.00, 4);
     -- ('mechanics', 50000.00, 2),
 
 INSERT INTO employee (first_name,last_name,role_id,manager_id)
